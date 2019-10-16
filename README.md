@@ -1,2 +1,4 @@
 # hackyou
-lifehacks
+{
+lifehacks;
+}
